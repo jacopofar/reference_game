@@ -1,0 +1,57 @@
+{ "columns":16,
+ "image":"wood_tileset.png",
+ "imageheight":512,
+ "imagewidth":512,
+ "margin":0,
+ "name":"wood_tileset",
+ "spacing":0,
+ "tilecount":256,
+ "tiledversion":"2020.12.18",
+ "tileheight":32,
+ "tilewidth":32,
+ "transparentcolor":"#f1fffa",
+ "type":"tileset",
+ "version":1.4,
+ "wangsets":[
+        {
+         "colors":[
+                {
+                 "color":"#ff0000",
+                 "name":"",
+                 "probability":1,
+                 "tile":-1
+                }],
+         "name":"New Wang Set",
+         "tile":-1,
+         "type":"mixed",
+         "wangtiles":[
+                {
+                 "tileid":154,
+                 "wangid":[0, 0, 0, 1, 1, 0, 0, 0]
+                }, 
+                {
+                 "tileid":155,
+                 "wangid":[0, 0, 0, 0, 0, 1, 0, 0]
+                }, 
+                {
+                 "tileid":171,
+                 "wangid":[1, 0, 0, 0, 0, 0, 0, 0]
+                }, 
+                {
+                 "tileid":172,
+                 "wangid":[0, 0, 0, 0, 0, 0, 0, 1]
+                }, 
+                {
+                 "tileid":173,
+                 "wangid":[0, 0, 0, 0, 0, 0, 1, 0]
+                }, 
+                {
+                 "tileid":174,
+                 "wangid":[0, 0, 0, 0, 0, 0, 1, 0]
+                }, 
+                {
+                 "tileid":175,
+                 "wangid":[1, 0, 0, 0, 0, 0, 1, 0]
+                }]
+        }]
+}
