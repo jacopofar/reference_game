@@ -8,3 +8,5 @@ The assets are from Liberated Pixel Cup, see:
 
 * https://opengameart.org/content/2d-lost-garden-tileset-transition-to-jetrels-wood-tileset
 * https://opengameart.org/content/rpg-character
+* https://opengameart.org/content/lpc-victorian-town-decorations
+* https://opengameart.org/content/lpc-victorian-buildings
