@@ -1,4 +1,12 @@
 { "columns":16,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"",
+         "target":"."
+        }
+    },
  "image":"..\/lpc-victorian-preview\/victorian-streets.png",
  "imageheight":3072,
  "imagewidth":512,
@@ -8,8 +16,107 @@
  "tilecount":1536,
  "tiledversion":"2020.12.18",
  "tileheight":32,
+ "tileproperties":
+    {
+     "1470":
+        {
+         "collide":true
+        },
+     "1471":
+        {
+         "collide":true
+        },
+     "1486":
+        {
+         "collide":true
+        },
+     "1487":
+        {
+         "collide":true
+        },
+     "1502":
+        {
+         "collide":true
+        },
+     "1503":
+        {
+         "collide":true
+        },
+     "1518":
+        {
+         "collide":true
+        },
+     "1519":
+        {
+         "collide":true
+        }
+    },
+ "tilepropertytypes":
+    {
+     "1470":
+        {
+         "collide":"bool"
+        },
+     "1471":
+        {
+         "collide":"bool"
+        },
+     "1486":
+        {
+         "collide":"bool"
+        },
+     "1487":
+        {
+         "collide":"bool"
+        },
+     "1502":
+        {
+         "collide":"bool"
+        },
+     "1503":
+        {
+         "collide":"bool"
+        },
+     "1518":
+        {
+         "collide":"bool"
+        },
+     "1519":
+        {
+         "collide":"bool"
+        }
+    },
+ "tiles":
+    {
+     "1535":
+        {
+         "objectgroup":
+            {
+             "draworder":"index",
+             "id":2,
+             "name":"",
+             "objects":[
+                    {
+                     "height":32,
+                     "id":1,
+                     "name":"",
+                     "rotation":0,
+                     "type":"",
+                     "visible":true,
+                     "width":32,
+                     "x":0,
+                     "y":0
+                    }],
+             "opacity":1,
+             "type":"objectgroup",
+             "visible":true,
+             "x":0,
+             "y":0
+            }
+        }
+    },
  "tilewidth":32,
  "transparentcolor":"#f1fffa",
  "type":"tileset",
- "version":1.4
+ "version":1.1
 }
