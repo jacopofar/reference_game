@@ -1,4 +1,6 @@
 {
+  "gameTitle": "Chunked tiles 2d game",
   "gameWidth": 640,
-  "gameHeight": 640
+  "gameHeight": 640,
+  "playerSpritesheet": "game/sprites/MainGuySpriteSheet.png"
 }
