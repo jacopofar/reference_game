@@ -10,3 +10,4 @@ The assets are from Liberated Pixel Cup, see:
 * https://opengameart.org/content/rpg-character
 * https://opengameart.org/content/lpc-victorian-town-decorations
 * https://opengameart.org/content/lpc-victorian-buildings
+* https://opengameart.org/content/lpc-fairy

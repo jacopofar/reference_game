@@ -3,7 +3,9 @@
   "gameWidth": 640,
   "gameHeight": 640,
   "playerSpritesheet": "game/sprites/MainGuySpriteSheet.png",
-  "startX": 10,
-  "startY": 40,
-  "initialWorld": "game/maps/second/world.world"
+  "startX": 350,
+  "startY": 90,
+  "initialWorld": "game/maps/second/world.world",
+  "playerSpriteHeight": 36,
+  "playerSpriteWidth": 36
 }
