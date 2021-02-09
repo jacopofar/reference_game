@@ -33,15 +33,23 @@
                  "point":true,
                  "properties":
                     {
-                     "collide":"immovable",
-                     "path":"left, left, up, right, left, right, down",
-                     "spritesheet":"..\/..\/spritesheets\/fairy.png"
+                     "collide":"no",
+                     "frameHeight":36,
+                     "frameWidth":36,
+                     "movementSpeed":20,
+                     "path":"left, left, up, right, left, right, down, right",
+                     "spritesheet":"..\/..\/spritesheets\/MainGuySpriteSheet.png",
+                     "stepDuration":300
                     },
                  "propertytypes":
                     {
                      "collide":"string",
+                     "frameHeight":"int",
+                     "frameWidth":"int",
+                     "movementSpeed":"int",
                      "path":"string",
-                     "spritesheet":"string"
+                     "spritesheet":"string",
+                     "stepDuration":"int"
                     },
                  "rotation":0,
                  "type":"",
