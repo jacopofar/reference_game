@@ -55,8 +55,8 @@
                  "type":"",
                  "visible":true,
                  "width":0,
-                 "x":554.666666666667,
-                 "y":370.666666666667
+                 "x":564,
+                 "y":368.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -76,11 +76,13 @@
                  "point":true,
                  "properties":
                     {
+                     "collide":"immovable",
                      "frameHeight":67,
                      "spritesheet":"..\/..\/spritesheets\/fairy.png"
                     },
                  "propertytypes":
                     {
+                     "collide":"string",
                      "frameHeight":"int",
                      "spritesheet":"string"
                     },
