@@ -36,10 +36,10 @@
                      "collide":"no",
                      "frameHeight":36,
                      "frameWidth":36,
-                     "movementSpeed":20,
+                     "movementSpeed":30,
                      "path":"left, left, up, right, left, right, down, right",
                      "spritesheet":"..\/..\/spritesheets\/MainGuySpriteSheet.png",
-                     "stepDuration":300
+                     "stepDuration":600
                     },
                  "propertytypes":
                     {
@@ -76,15 +76,13 @@
                  "point":true,
                  "properties":
                     {
-                     "collide":"immovable",
-                     "frameHeight":67,
-                     "spritesheet":"..\/..\/spritesheets\/fairy.png"
+                     "agent":"events\/fairy.json",
+                     "agent_id":"fairy_X"
                     },
                  "propertytypes":
                     {
-                     "collide":"string",
-                     "frameHeight":"int",
-                     "spritesheet":"string"
+                     "agent":"string",
+                     "agent_id":"string"
                     },
                  "rotation":0,
                  "type":"",
