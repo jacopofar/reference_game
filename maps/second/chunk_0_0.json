@@ -55,7 +55,7 @@
                  "point":true,
                  "properties":
                     {
-                     "collide":"yes",
+                     "collide":"try",
                      "frameHeight":36,
                      "frameWidth":36,
                      "movementSpeed":30,
