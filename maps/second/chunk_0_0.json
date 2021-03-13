@@ -28,12 +28,34 @@
          "objects":[
                 {
                  "height":0,
+                 "id":2,
+                 "name":"fairy 2",
+                 "point":true,
+                 "properties":
+                    {
+                     "agent":"events\/fairy.json",
+                     "agent_id":"fairy_X"
+                    },
+                 "propertytypes":
+                    {
+                     "agent":"string",
+                     "agent_id":"string"
+                    },
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":512,
+                 "y":407
+                }, 
+                {
+                 "height":0,
                  "id":1,
                  "name":"fairy",
                  "point":true,
                  "properties":
                     {
-                     "collide":"no",
+                     "collide":"yes",
                      "frameHeight":36,
                      "frameWidth":36,
                      "movementSpeed":30,
@@ -57,39 +79,6 @@
                  "width":0,
                  "x":564,
                  "y":368.666666666667
-                }],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":6,
-         "name":"obj Layer 2",
-         "objects":[
-                {
-                 "height":0,
-                 "id":2,
-                 "name":"fairy 2",
-                 "point":true,
-                 "properties":
-                    {
-                     "agent":"events\/fairy.json",
-                     "agent_id":"fairy_X"
-                    },
-                 "propertytypes":
-                    {
-                     "agent":"string",
-                     "agent_id":"string"
-                    },
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":0,
-                 "x":526,
-                 "y":412
                 }],
          "opacity":1,
          "type":"objectgroup",
