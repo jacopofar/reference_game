@@ -1,0 +1,24 @@
+{
+  "states": [
+    {
+      "conditions": [
+      ],
+      "aspect": {
+        "spritesheet": "/game/spritesheets/MainGuySpriteSheet.png",
+        "frameHeight": 36,
+        "frameWidth": 36,
+        "depth": 1,
+        "collide": "try",
+        "movementSpeed": 50,
+        "stepDuration": 500,
+        "path": "left, left, up, right, left, right, down, right"
+      },
+      "on_touch": [
+        {
+          "command": "say",
+          "msg": "hello world!"
+        }
+      ]
+    }
+  ]
+}

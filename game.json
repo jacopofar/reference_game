@@ -1,7 +1,7 @@
 {
   "gameTitle": "Chunked tiles 2d game",
-  "gameWidth": 640,
-  "gameHeight": 640,
+  "gameScreenWidth": 640,
+  "gameScreenHeight": 640,
   "playerSpritesheet": "game/spritesheets/MainGuySpriteSheet.png",
   "startX": 350,
   "startY": 90,
