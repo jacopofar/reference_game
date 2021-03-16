@@ -15,8 +15,14 @@
       },
       "on_touch": [
         {
+          "command": "teleport",
+          "map": "game/maps/first/world.world",
+          "x": 3,
+          "y": 5
+        },
+        {
           "command": "say",
-          "msg": "hello world!"
+          "msg": "hello world! You have just been teleported 😎"
         }
       ]
     }
