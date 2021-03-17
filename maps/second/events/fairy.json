@@ -13,16 +13,18 @@
         "stepDuration": 500,
         "path": "left, left, up, right, left, right, down, right"
       },
-      "on_touch": [
+      "on_interact": [
+        {
+          "command": "say",
+          "msg": ["hello world!",
+            "...",
+            "You will be been teleported 😎"]
+        },
         {
           "command": "teleport",
           "map": "game/maps/first/world.world",
           "x": 3,
           "y": 5
-        },
-        {
-          "command": "say",
-          "msg": "hello world! You have just been teleported 😎"
         }
       ]
     }
