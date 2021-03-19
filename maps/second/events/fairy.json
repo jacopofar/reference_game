@@ -18,7 +18,8 @@
           "command": "say",
           "msg": ["hello world!",
             "...",
-            "You will be been teleported 😎"]
+            "You will be be teleported 😎",
+            "Yes, that was an emoji"]
         },
         {
           "command": "teleport",
