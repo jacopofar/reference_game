@@ -27,6 +27,13 @@
           "x": 3,
           "y": 5
         }
+      ],
+      "on_init": [
+        {
+          "command": "toast",
+          "msg": ["Interact with me!"],
+          "duration": 15.0
+        }
       ]
     }
   ]
