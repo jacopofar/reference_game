@@ -7,5 +7,6 @@
   "startY": 90,
   "initialWorld": "game/maps/second/world.world",
   "playerSpriteHeight": 36,
-  "playerSpriteWidth": 36
+  "playerSpriteWidth": 36,
+  "backend": "ws://127.0.0.1:8000"
 }
