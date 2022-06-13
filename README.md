@@ -3,7 +3,7 @@
 This is a game intended to demo and test a game engine based on Phaser.
 This repository contains the data representing a game, not the code to run it.
 
-[Have alook at the "engine" repo](https://github.com/jacopofar/phaser-adventure-engine)
+[Have a look at the "engine" repo](https://github.com/jacopofar/phaser-adventure-engine)
 
 ## Credits and assets
 The assets are from Liberated Pixel Cup, see:
